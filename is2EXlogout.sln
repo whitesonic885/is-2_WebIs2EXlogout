@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is2EXlogout", "http://localhost/is2ex/is2EXlogout/is2EXlogout.csproj", "{2334ACBF-EACB-41A5-B191-AC7B485423BD}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2334ACBF-EACB-41A5-B191-AC7B485423BD}.Debug.ActiveCfg = Debug|.NET
+		{2334ACBF-EACB-41A5-B191-AC7B485423BD}.Debug.Build.0 = Debug|.NET
+		{2334ACBF-EACB-41A5-B191-AC7B485423BD}.Release.ActiveCfg = Release|.NET
+		{2334ACBF-EACB-41A5-B191-AC7B485423BD}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
